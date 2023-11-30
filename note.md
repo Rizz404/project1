@@ -26,3 +26,15 @@ git checkout nama_branch
 ```bash
 git checkout -b nama_branch
 ```
+
+**Cara merge branch**
+```bash
+git merge nama_branch
+```
+pastikan ada di branch yang ingin di yang menjadi wadah merge
+
+**Cara melihat log git**
+```bash
+git log --oneline --decorate --graph --all
+```
+akan menampilkan history branch modified dan merge

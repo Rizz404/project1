@@ -3,7 +3,7 @@
 ```bash
 git push origin main
 ```
-sesuaikan dengan nama branchnya disini memakai main
+sesuaikan dengan nama branchnya disini memakai main (disini tuh sudah dibuat reponya dulu)
 
 **Cara pull ke git**
 

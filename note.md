@@ -1,3 +1,5 @@
+# Github
+
 **Cara push ke git**
 
 ```bash
@@ -38,3 +40,12 @@ pastikan ada di branch yang ingin di yang menjadi wadah merge
 git log --oneline --decorate --graph --all
 ```
 akan menampilkan history branch modified dan merge
+
+# Docker
+
+Membuat acceess token pergi ke `account` -> `security` -> `new access token`
+accesss token project1 `dckr_pat_IDqLPyqHvQ-KVKytPaLl5g5mkeY`
+
+# Github
+
+Menambahkan repository secret pergi ke settings
